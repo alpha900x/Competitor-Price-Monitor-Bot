@@ -1,0 +1,7 @@
+<!doctype html><!-- SYNTHETIC fixture (not a real site): price is injected by JS ~700ms after load. -->
+<html><head><title>JS demo</title></head><body>
+<h1>Demo Widget</h1>
+<div id="stock">Ships in 3 days</div>
+<div id="slot"></div>
+<script>setTimeout(function(){document.getElementById('slot').innerHTML='<span class="js-price">$1,299.50</span>';},700);</script>
+</body></html>

@@ -1,0 +1,12 @@
+[
+  {
+    "site_id": "lenovo_in",
+    "product_url": "https://www.lenovo.com/in/en/p/servers-storage/servers/racks/thinksystem-sr250-v3-rack-server/len21ts0024",
+    "requires_js": true
+  },
+  {
+    "site_id": "router_switch",
+    "product_url": "https://www.router-switch.com/c9300-24p-a.html",
+    "requires_js": true
+  }
+]
